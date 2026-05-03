@@ -1,0 +1,29 @@
+    # Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Models
+backend/models/*.pkl
+professional_dataset_16k.csv
+results.png
+model_summary.csv
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node / Frontend
+node_modules/
+dist/
+.DS_Store
+
+# Temp files
+old_index.html
+old_style.css
