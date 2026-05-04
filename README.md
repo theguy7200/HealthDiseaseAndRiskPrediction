@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Overview](#overview)
 2. [Key Features](#key-features)
@@ -16,13 +16,7 @@
 8. [Model Performance & Results](#model-performance--results)
 9. [Installation & Prerequisites](#installation--prerequisites)
 10. [Local Development Setup](#local-development-setup)
-11. [Backend API Documentation](#backend-api-documentation)
-12. [Frontend Components & Features](#frontend-components--features)
-13. [Deployment Guide](#deployment-guide)
 14. [Project Structure](#project-structure)
-15. [Usage Examples](#usage-examples)
-16. [Troubleshooting](#troubleshooting)
-17. [Future Roadmap](#future-roadmap)
 18. [Contributing & License](#contributing--license)
 
 ---
@@ -49,7 +43,7 @@
 
 ## Key Features
 
-### 🎯 Core Capabilities
+### Core Capabilities
 
 1. **Dual-Task Prediction**
    - **Disease Classification**: Predicts 14+ disease categories from patient input
@@ -751,8 +745,6 @@ without limitation the rights to use, copy, modify, merge, publish,
 distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
-
-[Full license text...]
 ```
 
 
